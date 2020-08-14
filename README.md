@@ -1,4 +1,4 @@
-#Notes Taking App
+# Notes Taking App
 
 CLI based notes management application created with node.js.
 
